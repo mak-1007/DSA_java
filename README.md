@@ -28,7 +28,7 @@ Each folder represents a specific topic and contains multiple Java programs rela
 
 ---
 
-## 🚀 Ongoing Work
+##  Ongoing Work
 
 This is a continuously growing repository.
 
