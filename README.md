@@ -7,7 +7,6 @@ I am actively solving problems and organizing them topic-wise to strengthen my p
 ---
 
 ## 📂 Project Structure
-
 ```
 src/
  ├── Arrays/
